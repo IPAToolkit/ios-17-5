@@ -20,7 +20,7 @@ Unlock the full potential of your iOS or iPadOS device running iOS 17.5 with the
 💫 **Full iOS 17.5 Support:** Compatible with all iPhone and iPad devices running iOS 17.5. <br>
 💫 **Virtual Jailbreak:** On your iOS 17.5 device, you can get an AI solution to run virtual jailbreak tools.<br>
 💫 **Repo Extractor:** Bootstra AI can generate popular repo extractors for customized iPhone and iPad devices. <br>
-💫 **Tweaked Apps:** To customize your device without jailbreaking, Bootstra AI can create customized apps and appstores like tweaked stores. <br>
+💫 **Tweaked Apps:** To customize your device without jailbreaking, Bootstra AI can generate customized apps. <br>
 💫 **iOS Themes:** You can generate iOS 17.5 themes that support your iPhone model, run easily. <br>
 💫 **Unique Wallpapers:** Bootstra AI can generate unique wallpaper stores and shortcut appstores to personalize and simplify your iPhone usage. <br>
 
